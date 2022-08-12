@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\bin\Debug\net6.0\ValidaIdadeEleicao.exe
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\bin\Debug\net6.0\ValidaIdadeEleicao.deps.json
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\bin\Debug\net6.0\ValidaIdadeEleicao.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\bin\Debug\net6.0\ValidaIdadeEleicao.dll
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\bin\Debug\net6.0\ValidaIdadeEleicao.pdb
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.dll
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\refint\ValidaIdadeEleicao.dll
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.pdb
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ValidaIdadeEleicao.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\ValidaIdadeEleicao\ValidaIdadeEleicao\obj\Debug\net6.0\ref\ValidaIdadeEleicao.dll
