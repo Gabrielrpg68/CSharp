@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\bin\Debug\net6.0\CalculaCombustivel.exe
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\bin\Debug\net6.0\CalculaCombustivel.deps.json
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\bin\Debug\net6.0\CalculaCombustivel.runtimeconfig.json
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\bin\Debug\net6.0\CalculaCombustivel.dll
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\bin\Debug\net6.0\CalculaCombustivel.pdb
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.dll
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\refint\CalculaCombustivel.dll
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.pdb
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\CalculaCombustivel.genruntimeconfig.cache
+C:\Users\logonrmlocal\Desktop\CalculaCombustivel\CalculaCombustivel\obj\Debug\net6.0\ref\CalculaCombustivel.dll
