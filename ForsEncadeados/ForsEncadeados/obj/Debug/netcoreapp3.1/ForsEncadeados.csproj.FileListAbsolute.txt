@@ -1,0 +1,14 @@
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\bin\Debug\netcoreapp3.1\ForsEncadeados.exe
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\bin\Debug\netcoreapp3.1\ForsEncadeados.deps.json
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\bin\Debug\netcoreapp3.1\ForsEncadeados.runtimeconfig.json
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\bin\Debug\netcoreapp3.1\ForsEncadeados.runtimeconfig.dev.json
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\bin\Debug\netcoreapp3.1\ForsEncadeados.dll
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\bin\Debug\netcoreapp3.1\ForsEncadeados.pdb
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.csproj.AssemblyReference.cache
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.AssemblyInfo.cs
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.dll
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.pdb
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\ForsEncadeados\ForsEncadeados\obj\Debug\netcoreapp3.1\ForsEncadeados.genruntimeconfig.cache
