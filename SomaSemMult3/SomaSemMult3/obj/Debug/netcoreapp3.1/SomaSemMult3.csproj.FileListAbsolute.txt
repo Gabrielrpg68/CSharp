@@ -1,0 +1,14 @@
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\bin\Debug\netcoreapp3.1\SomaSemMult3.exe
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\bin\Debug\netcoreapp3.1\SomaSemMult3.deps.json
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\bin\Debug\netcoreapp3.1\SomaSemMult3.runtimeconfig.json
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\bin\Debug\netcoreapp3.1\SomaSemMult3.runtimeconfig.dev.json
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\bin\Debug\netcoreapp3.1\SomaSemMult3.dll
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\bin\Debug\netcoreapp3.1\SomaSemMult3.pdb
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.csproj.AssemblyReference.cache
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.AssemblyInfo.cs
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.dll
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.pdb
+C:\Users\Gabriel Dantas\OneDrive\FaculdadeFiap\EnterpriseApplicationDevelopment\CSharp-main\SomaSemMult3\SomaSemMult3\obj\Debug\netcoreapp3.1\SomaSemMult3.genruntimeconfig.cache
